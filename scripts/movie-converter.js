@@ -18,4 +18,4 @@ export const generateMoviesHTML = () => {
    return movieHTML
 };
 
-export {generateMoviesHTML}
+
